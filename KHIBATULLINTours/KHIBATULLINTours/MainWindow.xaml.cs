@@ -23,6 +23,10 @@ namespace KHIBATULLINTours
         public MainWindow()
         {
             InitializeComponent();
+
+            MainFrame.Navigate(new HotelsPage());
+
+            Manager.MainFrame = MainFrame;
         }
     }
 }
