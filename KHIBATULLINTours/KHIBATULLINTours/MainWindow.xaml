@@ -19,7 +19,8 @@
                    VerticalAlignment="Center"></TextBlock>
         <Grid Grid.Row="2" Background="#445c93"></Grid>
         <Frame Grid.Row="1" Name="MainFrame"></Frame>
-        
+        <Button Content="Back" Name="BtnBack" Width="175" Height="30" FontSize="20"
+                HorizontalAlignment="Right" Click="BtnBack_Click"></Button>
         
     </Grid>
 </Window>

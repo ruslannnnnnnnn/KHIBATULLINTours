@@ -28,5 +28,10 @@ namespace KHIBATULLINTours
 
             Manager.MainFrame = MainFrame;
         }
+
+        private void BtnBack_Click(object sender, RoutedEventArgs e)
+        {
+            Manager.MainFrame.GoBack();
+        }
     }
 }
