@@ -17,3 +17,4 @@ C:\Users\ruslan\source\repos\KHIBATULLINTours\KHIBATULLINTours\KHIBATULLINTours\
 C:\Users\ruslan\source\repos\KHIBATULLINTours\KHIBATULLINTours\KHIBATULLINTours\obj\Debug\KHIBATULLINTours.csproj.CoreCompileInputs.cache
 C:\Users\ruslan\source\repos\KHIBATULLINTours\KHIBATULLINTours\KHIBATULLINTours\obj\Debug\KHIBATULLINTours.exe
 C:\Users\ruslan\source\repos\KHIBATULLINTours\KHIBATULLINTours\KHIBATULLINTours\obj\Debug\KHIBATULLINTours.pdb
+C:\Users\ruslan\source\repos\KHIBATULLINTours\KHIBATULLINTours\KHIBATULLINTours\obj\Debug\App.baml
